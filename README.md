@@ -1,7 +1,6 @@
 # Hello World! 👋
 
 
-[![codewars](https://www.codewars.com/users/czbag/badges/micro)](https://www.codewars.com/users/czbag)
 ![](https://komarev.com/ghpvc/?username=czbag&color=blue&style=flat)
 
 ## 📊 Stats
