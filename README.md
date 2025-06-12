@@ -50,13 +50,14 @@
 ![TypeScript](https://img.shields.io/badge/-TypeScript-090909?style=for-the-badge&logo=TypeScript)
 <!-- lang-->
 
+![FastApi](https://img.shields.io/badge/-fastapi-090909?style=for-the-badge&logo=fastapi)
 ![Django](https://img.shields.io/badge/-django-090909?style=for-the-badge&logo=django)
 ![Flask](https://img.shields.io/badge/-flask-090909?style=for-the-badge&logo=flask)
-![FastApi](https://img.shields.io/badge/-fastapi-090909?style=for-the-badge&logo=fastapi)
 ![LangChain](https://img.shields.io/badge/-LangChain-090909?style=for-the-badge&logo=langchain)
 ![node.js](https://img.shields.io/badge/-node.js-090909?style=for-the-badge&logo=node.js)
 ![express.js](https://img.shields.io/badge/-express.js-090909?style=for-the-badge&logo=express)
 ![Docker](https://img.shields.io/badge/-docker-090909?style=for-the-badge&logo=docker)
+![redis](https://img.shields.io/badge/-redis-090909?style=for-the-badge&logo=redis)
 ![Postgresql](https://img.shields.io/badge/-postgresql-090909?style=for-the-badge&logo=postgresql)
 ![nginx](https://img.shields.io/badge/-nginx-090909?style=for-the-badge&logo=nginx)
 ![grafana](https://img.shields.io/badge/-grafana-090909?style=for-the-badge&logo=grafana)
