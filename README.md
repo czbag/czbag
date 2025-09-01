@@ -45,28 +45,90 @@
 
  ## 👨🏻‍💻 Languages and Tools:
  
-<!-- lang-->
+### 🐍 Backend (Python)
 ![Python](https://img.shields.io/badge/-python-090909?style=for-the-badge&logo=python)
-![TypeScript](https://img.shields.io/badge/-TypeScript-090909?style=for-the-badge&logo=TypeScript)
-<!-- lang-->
-
-![FastApi](https://img.shields.io/badge/-fastapi-090909?style=for-the-badge&logo=fastapi)
+![FastAPI](https://img.shields.io/badge/-fastapi-090909?style=for-the-badge&logo=fastapi)
 ![Django](https://img.shields.io/badge/-django-090909?style=for-the-badge&logo=django)
 ![Flask](https://img.shields.io/badge/-flask-090909?style=for-the-badge&logo=flask)
-![LangChain](https://img.shields.io/badge/-LangChain-090909?style=for-the-badge&logo=langchain)
-![node.js](https://img.shields.io/badge/-node.js-090909?style=for-the-badge&logo=node.js)
-![express.js](https://img.shields.io/badge/-express.js-090909?style=for-the-badge&logo=express)
+![gRPC](https://img.shields.io/badge/-gRPC-090909?style=for-the-badge&logo=grpc)
+
+---
+
+#### ⚡ Backend (Node.js / TypeScript)
+![Node.js](https://img.shields.io/badge/-node.js-090909?style=for-the-badge&logo=node.js)
+![TypeScript](https://img.shields.io/badge/-typescript-090909?style=for-the-badge&logo=typescript)
+![NestJS](https://img.shields.io/badge/-nestjs-090909?style=for-the-badge&logo=nestjs)
+
+---
+
+#### 🗄️ Databases & ORM
+![PostgreSQL](https://img.shields.io/badge/-postgresql-090909?style=for-the-badge&logo=postgresql)
+![SQL](https://img.shields.io/badge/-sql-090909?style=for-the-badge)
+![MongoDB](https://img.shields.io/badge/-mongodb-090909?style=for-the-badge&logo=mongodb)
+![ClickHouse](https://img.shields.io/badge/-clickhouse-090909?style=for-the-badge&logo=clickhouse)
+![Redis](https://img.shields.io/badge/-redis-090909?style=for-the-badge&logo=redis)
+![SQLAlchemy](https://img.shields.io/badge/-sqlalchemy-090909?style=for-the-badge&logo=sqlalchemy)
+![Prisma](https://img.shields.io/badge/-prisma-090909?style=for-the-badge&logo=prisma)
+
+---
+
+#### ⚙️ Infrastructure & DevOps
 ![Docker](https://img.shields.io/badge/-docker-090909?style=for-the-badge&logo=docker)
-![redis](https://img.shields.io/badge/-redis-090909?style=for-the-badge&logo=redis)
-![Postgresql](https://img.shields.io/badge/-postgresql-090909?style=for-the-badge&logo=postgresql)
-![nginx](https://img.shields.io/badge/-nginx-090909?style=for-the-badge&logo=nginx)
-![grafana](https://img.shields.io/badge/-grafana-090909?style=for-the-badge&logo=grafana)
-![playwright](https://img.shields.io/badge/-playwright-090909?style=for-the-badge&logo=selenium)
+![Nginx](https://img.shields.io/badge/-nginx-090909?style=for-the-badge&logo=nginx)
+![Envoy](https://img.shields.io/badge/-envoy-090909?style=for-the-badge&logo=envoyproxy)
+![Prometheus](https://img.shields.io/badge/-prometheus-090909?style=for-the-badge&logo=prometheus)
+![Grafana](https://img.shields.io/badge/-grafana-090909?style=for-the-badge&logo=grafana)
+
+---
+
+#### 🤖 AI / Data Science
+![LangChain](https://img.shields.io/badge/-LangChain-090909?style=for-the-badge&logo=langchain)
+
+---
+
+#### 📩 Messaging & Tasks
+![NATS](https://img.shields.io/badge/-nats-090909?style=for-the-badge&logo=natsdotio)
+![RabbitMQ](https://img.shields.io/badge/-rabbitmq-090909?style=for-the-badge&logo=rabbitmq)
+![Celery](https://img.shields.io/badge/-celery-090909?style=for-the-badge&logo=celery)
+
+---
+
+#### 🧪 Testing & Tools
+![Playwright](https://img.shields.io/badge/-playwright-090909?style=for-the-badge&logo=playwright)
+![Selenium](https://img.shields.io/badge/-selenium-090909?style=for-the-badge&logo=selenium)
+![Postman](https://img.shields.io/badge/-postman-090909?style=for-the-badge&logo=postman)
 ![ngrok](https://img.shields.io/badge/-ngrok-090909?style=for-the-badge&logo=ngrok)
-![postman](https://img.shields.io/badge/-postman-090909?style=for-the-badge&logo=postman)
-![WEB3 (EVM)](https://img.shields.io/badge/-web3(EVM)-090909?style=for-the-badge&logo=ethereum)
-![bitcoin](https://img.shields.io/badge/-bitcoin-090909?style=for-the-badge&logo=bitcoin)
- 
+
+---
+
+#### 📦 Package & Env Management
+![Poetry](https://img.shields.io/badge/-poetry-090909?style=for-the-badge&logo=poetry)
+![uv](https://img.shields.io/badge/-uv-090909?style=for-the-badge)
+
+
+---
+
+#### 📩 Messaging & Tasks
+![NATS](https://img.shields.io/badge/-nats-090909?style=for-the-badge&logo=natsdotio)
+![RabbitMQ](https://img.shields.io/badge/-rabbitmq-090909?style=for-the-badge&logo=rabbitmq)
+![Celery](https://img.shields.io/badge/-celery-090909?style=for-the-badge&logo=celery)
+
+---
+
+#### 🧪 Testing & Tools
+![Playwright](https://img.shields.io/badge/-playwright-090909?style=for-the-badge&logo=playwright)
+![Selenium](https://img.shields.io/badge/-selenium-090909?style=for-the-badge&logo=selenium)
+![Postman](https://img.shields.io/badge/-postman-090909?style=for-the-badge&logo=postman)
+![ngrok](https://img.shields.io/badge/-ngrok-090909?style=for-the-badge&logo=ngrok)
+
+---
+
+#### 📦 Package & Env Management
+![Poetry](https://img.shields.io/badge/-poetry-090909?style=for-the-badge&logo=poetry)
+![uv](https://img.shields.io/badge/-uv-090909?style=for-the-badge)
+
+---
+
 ## 🔗 Socials
 [![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram)](https://t.me/sybilwave)
 
