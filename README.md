@@ -115,20 +115,6 @@
 
 ---
 
-#### 🧪 Testing & Tools
-![Playwright](https://img.shields.io/badge/-playwright-090909?style=for-the-badge&logo=playwright)
-![Selenium](https://img.shields.io/badge/-selenium-090909?style=for-the-badge&logo=selenium)
-![Postman](https://img.shields.io/badge/-postman-090909?style=for-the-badge&logo=postman)
-![ngrok](https://img.shields.io/badge/-ngrok-090909?style=for-the-badge&logo=ngrok)
-
----
-
-#### 📦 Package & Env Management
-![Poetry](https://img.shields.io/badge/-poetry-090909?style=for-the-badge&logo=poetry)
-![uv](https://img.shields.io/badge/-uv-090909?style=for-the-badge)
-
----
-
 ## 🔗 Socials
 [![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram)](https://t.me/sybilwave)
 
