@@ -97,6 +97,7 @@
 ---
 
 #### 🧪 Testing & Tools
+![pytest](https://img.shields.io/badge/-pytest-090909?style=for-the-badge&logo=pytest)
 ![Playwright](https://img.shields.io/badge/-playwright-090909?style=for-the-badge&logo=playwright)
 ![Selenium](https://img.shields.io/badge/-selenium-090909?style=for-the-badge&logo=selenium)
 ![Postman](https://img.shields.io/badge/-postman-090909?style=for-the-badge&logo=postman)
