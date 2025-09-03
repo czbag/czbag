@@ -36,6 +36,9 @@
     <a href="https://github.com/czbag/ds-agent">
       <img src="https://github-readme-stats.vercel.app/api/pin/?username=czbag&repo=ds-agent&bg_color=090909&title_color=4ad5ff&text_color=FFFFFF&icon_color=FFFFFF&hide_border=true&show_owner=true&description_lines_count=2" alt="ds-agent">
     </a>
+      <a href="https://github.com/czbag/aiogram-bot-template">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=czbag&repo=aiogram-bot-template&bg_color=090909&title_color=4ad5ff&text_color=FFFFFF&icon_color=FFFFFF&hide_border=true&show_owner=true&description_lines_count=2" alt="aiogram-bot-template">
+    </a>
   </p>
 
   <a href="https://github.com/czbag?tab=repositories&sort=stargazers">
