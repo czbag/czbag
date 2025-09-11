@@ -90,6 +90,7 @@
 ---
 
 #### 📩 Messaging & Tasks
+![Kafka](https://img.shields.io/badge/-Kafka-090909?style=for-the-badge&logo=ApacheKafka)
 ![NATS](https://img.shields.io/badge/-nats-090909?style=for-the-badge&logo=natsdotio)
 ![RabbitMQ](https://img.shields.io/badge/-rabbitmq-090909?style=for-the-badge&logo=rabbitmq)
 ![Celery](https://img.shields.io/badge/-celery-090909?style=for-the-badge&logo=celery)
