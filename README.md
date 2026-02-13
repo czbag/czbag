@@ -113,7 +113,7 @@
 ---
 
 ## 🔗 Socials
-[![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram)](https://t.me/sybilwave)
+[![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram)](https://t.me/thedotdev)
 
 ## 🎁 Donation
 [![ethereum](https://img.shields.io/badge/-ERC20-090909?style=for-the-badge&logo=ethereum)](https://debank.com/profile/0x00000b0ddce0bfda4531542ad1f2f5fad7b9cde9)
