@@ -15,7 +15,7 @@
 
 - 💻 Backend Web Developer
 - #️⃣ Web3 Developer
-- 🌟 Crypto & Dev Influencer [Telegram](https://t.me/sybilwave)
+- 🌟 Crypto & Dev Influencer [Telegram](https://t.me/thedotdev)
 - 👽 80% of effects come from 20% of causes
 
 <details open> 
